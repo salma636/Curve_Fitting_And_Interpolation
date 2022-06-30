@@ -33,6 +33,7 @@ Curve Fitting And Interpolation:
 - Choose the order of the fitting polynomial 
 - The fitted equation and percentage error are shown in its mathematical form above the main graph
 ---
+
 ![]![fitting](https://user-images.githubusercontent.com/61379163/166127192-329ea994-d20d-4e94-8e4c-0299cca20a3e.gif)
 
 ----
